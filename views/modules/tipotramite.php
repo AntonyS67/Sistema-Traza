@@ -46,7 +46,7 @@ include "views/modules/cabezote.php";
                                        class="control-label">Descripcion</label>
                                 <input type="text" name="descripcion_nuevo"
                                        class="form-control"
-                                       placeholder="Ingrese la Descripcion">
+                                       placeholder="gIngrese la Descripcion">
                             </div>
 
                             <button type="submit" class="btn btn-primary">
