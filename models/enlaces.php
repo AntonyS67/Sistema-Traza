@@ -10,16 +10,12 @@
                $enlaces == "tipotramite" ||
                $enlaces == "perfil" ||
                $enlaces == "salir"){
-    
                 $module = "views/modules/".$enlaces.".php";
             }	
     
             else if($enlaces == "index"){
                 $module = "views/modules/ingreso.php";
             }
-
-            
-    
             else{
                 $module = "views/modules/ingreso.php";		
             }
