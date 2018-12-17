@@ -314,6 +314,7 @@ a .eliminar{
     padding: 20px;
     border-radius: 10px;
     box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    margin-bottom: 20px;
 }
 .well p{
     margin-top: -20px;
@@ -328,9 +329,17 @@ a .eliminar{
 /* Fin Mensajes */
 
 /* Lectura Mensajes */
+.botonEnviarCorreo{
+    margin-left: 110%;
+    margin-top: -80px;
+}
 .lecturaMensajes{
     margin-left: 50%;
-    margin-top: -320px;
+    position: absolute;
+    margin-top: -18%;
+}
+.visorMensajes{
+    top:0;
 }
 .visorMensajes form .form-control{
     margin-bottom: 10px;
